@@ -12,5 +12,5 @@ domains:
         - "5  ALT2.ASPMX.L.GOOGLE.COM"
         - "10 ALT3.ASPMX.L.GOOGLE.COM"
         - "10 ALT4.ASPMX.L.GOOGLE.COM"
-  a.dev.hird.io:
-    A: {records: ["54.206.97.71"]}
+  b.dev.hird.io:
+    A: {records: ["54.66.136.221"]}
