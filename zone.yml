@@ -13,4 +13,6 @@ domains:
         - "10 ALT3.ASPMX.L.GOOGLE.COM"
         - "10 ALT4.ASPMX.L.GOOGLE.COM"
   b.dev.hird.io:
-    A: {records: ["54.66.136.221"]}
+    A:
+      records:
+        - "54.66.136.221"
